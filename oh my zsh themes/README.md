@@ -28,9 +28,9 @@ Now if your terminal looks like this you must install Powerline fonts
 ## **Windows**
 Follow this step-by-step tutorial to add Powerline fonts to your Windows OS.
 
-### [Link](https://gist.github.com/stramel/658d702f3af8a86a6fe8b588720e0e23)
+* ### [Link](https://gist.github.com/stramel/658d702f3af8a86a6fe8b588720e0e23)
 
-### Changing the terminal font
+* ### Changing the terminal font
 
 1. Open your terminal and right-click on the taskbar
 2. Chose properties option ![image](./images/properties.png)
