@@ -1,4 +1,4 @@
-# How to add Themes to oh my zsh
+# How to add Themes to Z shell
 
 ## **Warning:** Please backup any file we will attempt to modify in case anything goes wrong
 
